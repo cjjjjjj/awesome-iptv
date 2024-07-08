@@ -5379,3 +5379,17 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 龙口生活,https://tv.cry33.com/qilu.php?id=ytlksh
 龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed?
 龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+
+
+
+世界杯,#genre#
+
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
+Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=2
+Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=3
+Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&xl=2
+Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&xl=3
+Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=2
+Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=3
