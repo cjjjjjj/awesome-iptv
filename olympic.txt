@@ -1,0 +1,53 @@
+
+Olympic2024,#genre#
+
+Live,http://0tt118.getenjoyment.net/iptvplus.m3u
+Live,http://0tt118.getenjoyment.net/m3u.php
+CNBC,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649772.ts
+E!,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649773.ts
+NBC,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649774.ts
+USA Network,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649775.ts
+CBC,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649776.ts
+BBC One,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649777.ts
+BBC Two,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649778.ts
+Eurosport,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649788.ts
+Eurosport 2,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649789.ts
+Eurosport 3,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649790.ts
+Eurosport 4,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649791.ts
+Eurosport 5,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649792.ts
+Eurosport 6,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649793.ts
+Eurosport 7,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649794.ts
+Eurosport 8,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649795.ts
+Eurosport 9,http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649796.ts
+US: CNBC,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649772
+US:E!,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649773
+US: NBC,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649774
+US: USA Network,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649775
+CA: CBC,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649776
+UK: BBC One,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649777
+UK: BBC Two,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649778
+UK:Eurosport,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649788
+UK:Eurosport 2,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649789
+UK:Eurosport 3,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649790
+UK:Eurosport 4,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649791
+UK:Eurosport 5,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649792
+UK:Eurosport 6,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649793
+UK:Eurosport 7,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649794
+UK:Eurosport 8,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649795
+UK:Eurosport 9,http://defaultgen.com:3050/matt22/fTFdwJ82y4/649796
+US: CNBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649772.ts
+US: E!,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649773.ts
+US: NBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649774.ts
+US: USA Network,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649775.ts
+CA: CBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649776.ts
+UK: BBC One,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649777.ts
+UK: BBC Two,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649778.ts
+UK: Eurosport,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649788.ts
+UK: Eurosport 2,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649789.ts
+UK: Eurosport 3,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649790.ts
+UK: Eurosport 4,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649791.ts
+UK: Eurosport 5,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649792.ts
+UK: Eurosport 6,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649793.ts
+UK: Eurosport 7,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649794.ts
+UK: Eurosport 8,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649795.ts
+UK: Eurosport 9,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649796.ts
