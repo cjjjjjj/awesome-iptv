@@ -5935,9 +5935,7 @@ astro QLY3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/29ca61fbccd
 astro QYL4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3185d936545f8d009cb1b4d49e8ae164/master.m3u8
 astro QLY5,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3a21f4cf0f7a4e11b5baf566571b9498/master.m3u8
 
-
-olympic2024,#genre#
-
+Olympic2024,#genre#
 
 Vod,http://clun.top/tv
 Live,http://0tt118.getenjoyment.net/iptvplus.m3u
