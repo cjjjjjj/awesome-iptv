@@ -1,6 +1,4 @@
 
-
-
 央视,#genre#
 
 CCTV-新闻,http://219.159.147.195:9901/tsfile/live/1015_1.m3u8?key=txiptv
@@ -5382,7 +5380,6 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 
 
-
 世界杯,#genre#
 
 Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
@@ -5395,6 +5392,7 @@ Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&
 Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=2
 Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=3
 
+TVB,#genre#
 
 TVB 翡翠臺 ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3421f5eb10975742a75d3f42e1a9e848/master.m3u8
 TVB Plus,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7f132d501fb9863844ab51697900d494/master.m3u8
